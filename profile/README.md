@@ -1,6 +1,6 @@
 # ReGame Labs
 
-**Matching decompilations of PlayStation classics.**
+**Matching decompilations of Games classics.**
 
 We take games we love and turn them back into readable C source, source that
 compiles with the original tools into the very same game, byte for byte.
@@ -14,6 +14,7 @@ This organization hosts only that: decompilation projects. Nothing else lives he
 | [Digimon Digital Card Battle](https://github.com/ReGame-Labs/dcb_decomp) | USA · Japan · Europe | [![Code](https://decomp.dev/ReGame-Labs/dcb_decomp.svg?mode=shield&measure=code&label=Code)](https://decomp.dev/ReGame-Labs/dcb_decomp) |
 | [Digimon World 3](https://github.com/ReGame-Labs/dw3_decomp) | Europe · USA | [![Code](https://decomp.dev/ReGame-Labs/dw3_decomp.svg?mode=shield&measure=code&label=Code)](https://decomp.dev/ReGame-Labs/dw3_decomp) |
 | [Digimon Rumble Arena](https://github.com/ReGame-Labs/dtbe_decomp) | Japan | [![Code](https://decomp.dev/ReGame-Labs/dtbe_decomp.svg?mode=shield&measure=code&label=Code)](https://decomp.dev/ReGame-Labs/dtbe_decomp) |
+| [Digimon World DS](https://github.com/ReGame-Labs/dwds_decomp) | USA | [![Code](https://decomp.dev/ReGame-Labs/dwds_decomp.svg?mode=shield&measure=code&label=Code)](https://decomp.dev/ReGame-Labs/dwds_decomp) |
 
 ## Good to know
 
