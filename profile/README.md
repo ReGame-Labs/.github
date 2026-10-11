@@ -22,6 +22,8 @@ This organization hosts only that: decompilation projects. Nothing else lives he
   you need your own copy of it.
 - **Matching, not "close enough".** Every build is checked against the original
   executable, with the compilers the game was made with.
-- **Open progress.** Each release's progress is public on [decomp.dev](https://decomp.dev).
+- **Open progress.** Each release's progress is public on [decomp.dev](https://decomp.dev)
+- **Tracking.** Check the project tracking here [recomp.fyi](https://recomp.fyi/)
+- **Discord.** [ReGame Labs Community](https://discord.gg/Td5zHuzVaa)
 
 🌐 [regame-labs.github.io](https://regame-labs.github.io)
